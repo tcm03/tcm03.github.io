@@ -38,6 +38,8 @@ nav:
     link: "/"
   - name: "Today I Learn"
     link: "/today-i-learn/"
+  - name: "I Learn Finance"
+    link: "/i-learn-finance/"
   - name: "Projects"
     link: "/projects/"
   - name: "About Me"
